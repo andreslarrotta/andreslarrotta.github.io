@@ -3,7 +3,7 @@
   "lang": "en",
   "name": "Andres Larrotta",
   "short_name": "Andres Larrotta",
-  "scope": "/",
+  "scope": "/build/",
   "display": "fullscreen",
   "start_url": "https://andreslarrotta.com/",
   "background_color": "#fee700",
